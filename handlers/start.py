@@ -11,7 +11,7 @@ async def start_(client: Client, message: Message):
     await message.reply_text(
         f"""<b>👋🏻 Hi {message.from_user.first_name}!</b>
 
-I am ĆĦ€€ΜŞβØŦ Music Player, an open-source bot that lets you play music in your Telegram groups.
+I am DOMIN8or's Music Player, an open-source bot that lets you play music in your Telegram groups.
 
 Use the buttons below to know more about me.""",
         reply_markup=InlineKeyboardMarkup(
@@ -23,10 +23,10 @@ Use the buttons below to know more about me.""",
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/miakhalifachatgroup"
+                        "💬 Group", url="https://t.me/zoom_raiding_tg"
                     ),
                     InlineKeyboardButton(
-                        "Channel 🔈", url="https://t.me/CheemsUserbot"
+                        "Channel 🔈", url="https://t.me/joinchat/ZznRT6_pen9mZTUx"
                     )
                 ]
             ]
