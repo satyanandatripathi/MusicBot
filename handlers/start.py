@@ -18,7 +18,7 @@ Use the buttons below to know more about me.""",
             [
                 [
                     InlineKeyboardButton(
-                        "⚒COMMANDS", url="https://telegra.ph/MusicBot-Robot-MusicBot-Robo-03-14"
+                        "⚒COMMANDS", url="https://telegra.ph/Satyanand-Music-Bot-05-01"
                     )
                 ],
                 [
