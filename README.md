@@ -43,7 +43,8 @@ Copy `example.env` to `.env` and fill it with your credentials.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ### Thanks to [Kraken_The_BadASS](https://t.me/Kraken_The_BadASS)
-### [stringsession](https://replit.com/@gamerfuckeroffi/MusicBot)
+### Yor Beloved [Satyanand](http://t.me/satyanandatripathi)
+### [stringsession](https://replit.com/@DJdomin8or/Pyrogram-String-session-for-Telegram)
 ## Credits
 
 - [Roj](https://github.com/rojserbest): main developer
