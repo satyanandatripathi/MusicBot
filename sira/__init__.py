@@ -1,1 +1,1 @@
-from .queue import add, get, is_empty, task_done, clear
+from sira.queue import add, get, is_empty, task_done, clear
