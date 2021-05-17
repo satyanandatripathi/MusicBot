@@ -4,7 +4,7 @@ from pyrogram.types import Message
 import tgcalls
 from converter import convert
 from youtube import download
-import sira
+from sira.queue import add, get, is_empty, task_done, clear
 from config import DURATION_LIMIT
 from helpers.wrappers import errors
 from helpers.errors import DurationLimitError
